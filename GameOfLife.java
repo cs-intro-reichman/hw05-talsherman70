@@ -166,7 +166,6 @@ public class GameOfLife {
 				System.out.printf("%3s", board[i][j]);
 			}
 			System.out.println();
-			System.out.println();
 		}
 	}
 		
